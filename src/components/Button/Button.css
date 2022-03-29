@@ -1,0 +1,16 @@
+button {
+  border-radius: 5px;
+  border: 2px solid aqua;
+  margin: 10px;
+
+  background-color: aqua;
+  color: darkslategray;
+  font-size: 30px;
+  font-weight: bolder;
+  line-height: 30px;
+
+}
+.disabled {
+  opacity: 0.4;
+}
+
