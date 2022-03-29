@@ -24,7 +24,6 @@ export const counterReducer = (state = InitialState, action: ActionType): Initia
                     incDisabled: true,
                     resetDisabled: true
                 }
-
         case "INC-VALUE":
             return {
                 ...state,
